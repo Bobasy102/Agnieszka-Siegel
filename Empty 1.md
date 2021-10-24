@@ -55,5 +55,8 @@ jjjjj
 <!-- Example for Numbered List -->
 
 <!-- Example for Tables -->
+kolumna 1 | kolumna 2  | kolumna 3
 
 <!-- Paragraph after table -->
+<!-- Here comes the TOC -->
+- [**tratata**](**tratata**)
