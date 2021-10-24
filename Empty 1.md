@@ -42,9 +42,11 @@ tralalaa
 <!-- Example for inline code -->
 
 <!-- A block of code -->
-
+```
+printf ("Hello World")
+```
 <!-- Example for Quote -->
-
+'''
 <!-- Example for Bullet List -->
 
 <!-- Example for Numbered List -->
